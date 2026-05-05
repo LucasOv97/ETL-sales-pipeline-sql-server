@@ -6,7 +6,7 @@ Proyecto que simula un pipeline ETL completo utilizando SQL Server.
 Demostrar el proceso de extracción, transformación y carga (ETL) de datos para análisis.
 
 🔄 Proceso
-Carga de datos desde CSV (staging)
+Carga de datos desde CSV (ventas)
 Limpieza y transformación
 Modelado para reporting
 
